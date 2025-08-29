@@ -21,6 +21,7 @@ This project demonstrates how to implement **real-time communication** between m
 
 ## 📂 Project Structure
 chat-app/
+
 │── server/ # Server-side code (Express + Socket.io)
 
 │── .gitignore # Ignored files (node_modules, logs, etc.)
